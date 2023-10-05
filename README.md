@@ -1,2 +1,8 @@
 # FullStack-WebDevelopment-OakAcademy
-My projects for Full Stack Web Development with MERN.
+Repository for all projects on this Bootcamp
+
+## Content:
+- HTML
+
+## Resources
+Bootcamp link: 
