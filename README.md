@@ -3,6 +3,7 @@ Repository for all projects on this Bootcamp
 
 ## Content:
 - HTML
+- CSS
 
 ## Resources
-Bootcamp link: 
+Bootcamp link: https://www.udemy.com/course/full-stack-web-development-bootcamp-with-mern-stack-projects/
